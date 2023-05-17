@@ -1,4 +1,4 @@
-module github.com/squash/bflt
+module github.com/wltechblog/bflt
 
 go 1.20
 

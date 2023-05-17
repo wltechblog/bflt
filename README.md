@@ -6,7 +6,7 @@ bflt is an easy to use option for creating flash images. This tool is still in d
 
 # Building
 
-You will need a Go compiler (https://go.dev/dl/) with gccgo (https://go.dev/doc/install/gccgo)
+You will need a Go compiler (https://go.dev/dl/) with gccgo (https://go.dev/doc/install/gccgo) and the dependencies of the Fyne toolkit (https://developer.fyne.io/started/#prerequisites)
 
 Once those are met, installing/updating shoudl be a single command:
 
